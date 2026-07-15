@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0480/v1
 canonical_location: https://kanripo.org/bkk/KR6j0480/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說大吉祥天女十二名號經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0480_000.yaml, hash: 'sha256:c6330cc3bc8fb9918ab0d1c3928c45bc5bdce8c93620ebdcbbe20b2d5d3ed5c1'}
-  - {seq: 1, filename: KR6j0480_001.yaml, hash: 'sha256:26f43bf8f2dba7ef7bcd278b4eebdec97597cc9e427745001886ed5ae3e18902'}
+  - {seq: 1, filename: KR6j0480_001.yaml, hash: 'sha256:b64bd7c9455c6127ee0468cf2b02845771f56d24528b852452cac6efe6d4d9ab'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0480_000.markers.yaml, hash: 'sha256:aac24db5a89a4dfbb9ff80235a28a6f22129e65085b602da5fcffc1923a1f2fe'}
-  - {seq: 1, role: markers, filename: assets/KR6j0480_001.markers.yaml, hash: 'sha256:016d67b14226299041670d8c70a3bb389e00de4256e83748276aee9db3b0ffde'}
+  - {seq: 1, role: markers, filename: assets/KR6j0480_001.markers.yaml, hash: 'sha256:1bda250c88a67bce5c42176ae7ea6c20d72336ab7465e5f9b6eb6c4b1e2b48a0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說大吉祥天女十二名號經
   type: juan
   level: 1
-hash: sha256:4d9cad28750e784c377459b018d2ed52291ab47b78cbc79ebeabc67a4b27596a
+hash: sha256:014ed1ac111653a224329e48078001a6e712fc51e389b08ce221796bd217df68
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
